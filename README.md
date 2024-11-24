@@ -6,7 +6,7 @@ O projeto Bikcraft foi desenvolvido por completo, iniciado desde a prototipagem 
 
 
 
-Clique em https://bikcraft.valmirdeveloper.com.br/ para acessar.
+Clique em https://bikcraft.valmir.dev.br/ para acessar.
 
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="200" width="200" />
